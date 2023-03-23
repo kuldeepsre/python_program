@@ -1,0 +1,11 @@
+stack =[]
+stack.append(2)
+stack.append(12)
+stack.append(32)
+stack.append(42)
+stack.append(22)
+print("Insert Eelement in stack :" ,stack ,end="\n ")
+stack.pop(2)
+print("pop Eelement in stack :" ,stack ,end="\n ")
+stack.sort()
+print("sort statck :" ,stack ,end="\n ")
