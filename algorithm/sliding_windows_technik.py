@@ -9,7 +9,7 @@
 arr = [32, 49, 49, 30, 50]
 # op/0 [32, 49, 49],[49, 49, 30],[49, 30, 50]
 size = len(arr)
-wondows_size = 23
+wondows_size = 2
 
 
 def sliding_window(a, n, k):
