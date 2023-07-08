@@ -6,3 +6,5 @@ for i in s:
 
 print(l)
 print(" ".join(l))
+
+
