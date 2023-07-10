@@ -22,3 +22,9 @@ for i in range(1,N):
              break
 print(l)
 print(l[K-1])
+#
+# #        b = arr
+#         hash = set(b)
+#         for i in range(1, n + k):
+#             if i not in hash:
+#                 return i
